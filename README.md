@@ -58,3 +58,12 @@
 * https://www.alanbonnici.com/2018/01/howto-setup-openvpn-server-and-client.html
 * 
 * 
+
+
+
+
+* jump server for windows & linux
+* bastion host for windows & linux
+* CyberArk
+
+
