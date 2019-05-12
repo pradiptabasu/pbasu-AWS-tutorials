@@ -56,6 +56,10 @@
 * https://openvpn.net/community-downloads/
 * https://opengear.zendesk.com/hc/en-us/articles/216375023-Creating-OpenVPN-certificates-from-Windows
 * https://www.alanbonnici.com/2018/01/howto-setup-openvpn-server-and-client.html
+* http://www.carbonwind.net/VPN/XCA_OpenVPN/XCA_OpenVPN.htm
+* https://www.howtoforge.com/tutorial/how-to-install-openvpn-server-and-client-with-easy-rsa-3-on-centos-7/
+* https://medium.com/@chribonn/howto-generate-password-protected-openvpn-client-configuration-using-easyrsa-94f38a1a65fb
+* 
 * 
 * 
 
